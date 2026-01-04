@@ -481,5 +481,3 @@ For questions or issues:
 - [ ] Add model versioning and experiment tracking
 
 ---
-
-**Note**: This is a demonstration project with synthetic data. For production use, replace the data generation with your actual customer data and retrain the model accordingly.
