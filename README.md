@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 
-An advanced machine learning system for predicting customer churn using Natural Language Processing (NLP) and explainable AI techniques. This project combines contextual customer interaction analysis with state-of-the-art interpretability methods to provide actionable insights for customer retention.
+A machine learning system for predicting customer churn that combines behavioral, sentiment, and engagement features with SHAP-based explainability. It exposes churn probabilities, per-prediction risk factors, and retention recommendations through a FastAPI service.
 
 ## 🌟 Features
 
